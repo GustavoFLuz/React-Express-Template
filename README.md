@@ -1,5 +1,7 @@
 # Vite, ReactJS and ExpressJS project template
 
+A fullstack project template using Vite and ReactJS for the front-end and ExpressJS as the back-end
+
 ## Instalation
 Run `npm install ` at the terminal to install the packages
 
